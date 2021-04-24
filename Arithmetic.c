@@ -2,7 +2,12 @@
 
 int main() {
     // Demonstrate arithmetic operators
-    int a = 6, b = 3, result;
+    int a, b, result;
+    // Take user input
+    printf("\nEnter first number: ");
+    scanf("%d", &a);
+    printf("\nEnter second number: ");
+    scanf("%d", &b);
     // Addition
     result = a + b;
     printf("\n%d + %d = %d", a, b, result);
