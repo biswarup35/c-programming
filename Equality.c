@@ -30,7 +30,7 @@ int main() {
 
     /**
      * Equals to
-     * Note to confused with '=' & '=='
+     * [Note] Not to confused with '=' & '=='
      * '=' -> Assignment operator
      * '==' -> equal operator
     */
